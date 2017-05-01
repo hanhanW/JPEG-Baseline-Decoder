@@ -7,4 +7,4 @@
 
 ## Environment
 - Ubuntu 16.04
-- GCC Version >= 4.9.3
+- GCC Version >= 5.4.0
