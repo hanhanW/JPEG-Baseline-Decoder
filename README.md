@@ -2,7 +2,7 @@
 
 ## Usage
 1. Compile: `make`
-2. Execute:: `./jpeg_decoder <file>`
+2. Execute: `./jpeg_decoder <file>`
 3. The result is save to `output.bmp`
 
 ## Environment
